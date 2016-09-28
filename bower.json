@@ -1,0 +1,25 @@
+{
+  "name": "swiper-demo",
+  "homepage": "https://github.com/cbaeza/swiper-demo",
+  "authors": [
+    "Carlos Baeza <carlos.baeza@posteo.de>"
+  ],
+  "description": "Play with swiper slide gallery",
+  "main": "index.html",
+  "keywords": [
+    "swiper",
+    "slider"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Swiper": "swiper#^3.3.1"
+  }
+}
